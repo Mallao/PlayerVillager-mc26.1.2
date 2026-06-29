@@ -17,4 +17,4 @@ PlayerVillager is a Fabric mod for Minecraft 26.1.2 that makes villagers behave 
 
 ## License
 
-This project is licensed under the CC0-1.0 license.
+This project is licensed under the MIT license.
