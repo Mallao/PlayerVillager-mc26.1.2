@@ -3,15 +3,14 @@
 	"id": "playervillager",
 	"version": "${version}",
 	"name": "PlayerVillager",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Load a player's skin to a villager.",
 	"authors": [
 		"Me!"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/Mallao/PlayerVillager-mc26.1.2"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/playervillager/icon.png",
 	"environment": "*",
 	"entrypoints": {
